@@ -1,3 +1,6 @@
+# TechVelvet Store
+
+Projeto desenvolvido na disciplina de Gestão do Ciclo de Vida da Aplicação.
 <div align="center">
 <h1> Atividades AEDS I </h1>
 </div>
