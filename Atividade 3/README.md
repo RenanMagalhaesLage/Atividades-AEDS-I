@@ -10,7 +10,7 @@ Prof. [Luiz Eduardo da Silva](https://github.com/luizedsilva)
 </div>
 
 ## Objetivo
-Utilizar literais (strings) e fun¸c˜oes em linguagem C.
+Utilizar literais (strings) e funções em linguagem C.
 
 ## Problema
 <b>Manipulação de strings e funções</b>
