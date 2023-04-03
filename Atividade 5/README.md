@@ -35,14 +35,15 @@ Para cada ISBN lido, seu programa deve escrever, na saída, o ISBN com o dígito
 ### Exemplo
 Entrada
 
+```text
 089237010
-
 083063637
-
 000000000
+```
 
 Saída
 
+```text
 089237010-6
-
 083063637-4
+```
