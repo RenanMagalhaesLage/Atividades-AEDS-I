@@ -1,6 +1,13 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5485096&assignment_repo_type=AssignmentRepo)
-# Trabalho de AEDs I
-## Arquivos em linguagem C
+#### Universidade Federal de Alfenas - UNIFAL-MG
+Bacharelado em Ciência da Computação
+
+Prof. [Luiz Eduardo da Silva](https://github.com/luizedsilva)
+
+<hr>
+<div align="center">
+<h1>Trabalho de Programação</h1>
+    <p>Atividade 6 - Arquivos em Linguagem C </p>
+</div>
 
 ### Descrição
 
