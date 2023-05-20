@@ -41,9 +41,9 @@ imprimiria um quadrado 5 por 5.
 ```
 À medida que a tartaruga se move com a caneta para baixo, defina os elementos apropriados da matriz piso com 1s. Quando o comando p (imprimir) for 
 emitido, onde houver um 1 na matriz exiba um asterisco, ou outro caractere de sua escolha. Sempre que houver um zero, exiba
-um ’.’. Escreva um programa para implementar os recursos do gráfico de tartaruga descritos
-aqui. Escreva v ́arios programas de gr ́aficos de tartaruga para desenhar formas interessantes.
-Adicione outros comandos para aumentar a potencialidade de sua linguagem de gr ́afico de
+um ' . '. Escreva um programa para implementar os recursos do gráfico de tartaruga descritos
+aqui. Escreva v ́arios programas de gráficos de tartaruga para desenhar formas interessantes.
+Adicione outros comandos para aumentar a potencialidade de sua linguagem de gráfico de
 tartaruga.
 
 O resultado do programa para os dados anteriores:
@@ -76,8 +76,7 @@ O resultado do programa para os dados anteriores:
 2. Usar uma matriz denominada piso, 20 por 20, inicializada com zeros. Leia os comandos de entrada. Controle sempre a posição atual da tartaruga, 
 a direção em que a tartaruga está virada e se a caneta está para cima ou para baixo. Admita que a tartaruga sempre
 come ̧ca na posição 0,0 do piso, com a caneta para cima e a direção voltada para direita.
-3. Implementar e testar o programa conforme solicitado. Os testes devem ser feitos redi-
-recionando a entrada de dados na chamada do programa. Por exemplo, se o executável do programa chama-se atividade2. 
+3. Implementar e testar o programa conforme solicitado. Os testes devem ser feitos redirecionando a entrada de dados na chamada do programa. Por exemplo, se o executável do programa chama-se atividade2. 
 Digitar os dados de entrada num arquivo dados.txt e chamar:
 
 
