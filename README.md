@@ -3,7 +3,7 @@
 </div>
 
 #### Universidade Federal de Alfenas - UNIFAL
-Atividades realizadas durante a matéria de Algoritmos e Estrutura de Dados 1
+Trabalhos realizados na disciplina de Algoritmos e Estrutura de Dados I 
 
 #### Professor
 -[Luiz Eduardo da Silva](https://github.com/luizedsilva)
